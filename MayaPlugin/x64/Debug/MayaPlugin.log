@@ -1,0 +1,40 @@
+﻿  Source.cpp
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(184): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(204): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(227): warning C4018: '<': signed/unsigned mismatch
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(238): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(239): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(349): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(350): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(351): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(353): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(354): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(355): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(356): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(358): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(359): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(360): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(347): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(423): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(450): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(459): warning C4018: '<': signed/unsigned mismatch
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(464): warning C4018: '<': signed/unsigned mismatch
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(478): warning C4018: '<': signed/unsigned mismatch
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(484): warning C4018: '<': signed/unsigned mismatch
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(565): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(562): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(563): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(614): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(715): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(781): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+f:\skolan\shared memory\level editor project5\github\mayaplugin\mayaplugin\mayaplugin\source.cpp(880): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+  MayaPlugin.vcxproj -> F:\skolan\Shared Memory\Level Editor Project5\GitHub\Mayaplugin\Mayaplugin\Build/MayaPlugin.mll
